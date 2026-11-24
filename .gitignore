@@ -1,0 +1,14 @@
+data/
+.venv/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+# only the two backbones used by the final model are committed
+features/*
+!features/clip_l14_336.npz
+!features/siglip2_so400m_512.npz
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz

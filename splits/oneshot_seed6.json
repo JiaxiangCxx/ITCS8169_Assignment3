@@ -1,0 +1,39 @@
+{
+ "seed": 6,
+ "classes": [
+  "Bedroom",
+  "Coast",
+  "Flower",
+  "Forest",
+  "Highway",
+  "Industrial",
+  "InsideCity",
+  "Kitchen",
+  "LivingRoom",
+  "Mountain",
+  "Office",
+  "OpenCountry",
+  "Store",
+  "Street",
+  "Suburb",
+  "TallBuilding"
+ ],
+ "train_images": [
+  "train/Bedroom/image_0067.jpg",
+  "train/Coast/image_0132.jpg",
+  "train/Flower/image_0128.jpg",
+  "train/Forest/image_0052.jpg",
+  "train/Highway/image_0237.jpg",
+  "train/Industrial/image_0056.jpg",
+  "train/InsideCity/image_0156.jpg",
+  "train/Kitchen/image_0057.jpg",
+  "train/LivingRoom/image_0068.jpg",
+  "train/Mountain/image_0357.jpg",
+  "train/Office/image_0028.jpg",
+  "train/OpenCountry/image_0190.jpg",
+  "train/Store/image_0065.jpg",
+  "train/Street/image_0155.jpg",
+  "train/Suburb/image_0141.jpg",
+  "train/TallBuilding/image_0050.jpg"
+ ]
+}
